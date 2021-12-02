@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alfZone
 - 👀 I’m interested in programming languages
 - 🌱 I’m currently learning php + mysql + html + javascript
-- 💞️ I’m looking to collaborate on na-tv.fun
+- 💞️ I’m looking to collaborate on [na-tv.fun](https://na-tv.fun/)
 - 📫 How to reach me? send mail to alf@esmonserrate.org
 
 <!---
