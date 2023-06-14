@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alfZone
 - 👀 I’m interested in programming languages
 - 🌱 I’m currently learning php + mysql + html + javascript + android
-- 💞️ I’m looking to collaborate on [na-tv.pt](https://na-tv.pt/) or Forge of Empire tool (https://galeria.esmonserrate.org/fe/public/)
+- 💞️ I’m looking to collaborate on [na-tv.pt](https://na-tv.pt/) or [Forge of Empire tool](https://galeria.esmonserrate.org/fe/public/)
 - 📫 How to reach me? send mail to alf@esmonserrate.org
 
 <!---
